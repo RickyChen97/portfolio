@@ -22,6 +22,27 @@ const words = [
     "LOVE",
     "TRUST",
     "PRINCIPLE",
+    "LOVE",
+    "TRUST",
+    "PRINCIPLE",
+    "LOVE",
+    "TRUST",
+    "PRINCIPLE",
+    "LOVE",
+    "TRUST",
+    "PRINCIPLE",
+    "LOVE",
+    "TRUST",
+    "PRINCIPLE",
+    "LOVE",
+    "TRUST",
+    "PRINCIPLE",
+    "LOVE",
+    "TRUST",
+    "PRINCIPLE",
+    "LOVE",
+    "TRUST",
+    "PRINCIPLE"
 ];
 
 export const TapeSection = () => {
